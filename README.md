@@ -1,4 +1,4 @@
-== README
+README
 
 There have been some terrible winter seasons in the last couple of years, so snow removal companies are busier than ever. The director of a [Winnipeg snow removal](http://www.cleanrsnow.com) business asked me to build a Rails website for them. I don't know that much about the language, I know it takes some knowledge but I like to do things I can learn from, so I accepted the challenge.
 
